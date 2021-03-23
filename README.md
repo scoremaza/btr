@@ -1,2 +1,0 @@
-# btr
-Completed Django Website 
